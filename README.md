@@ -1,3 +1,3 @@
-- 💬 Ask me about 🍞
-- 🌱 I’m currently learning how to emulate the M68K processor
-- 🏗️ Working on kernel tooling and automation for @canonical
+- 💬 Ask me about 🦞
+- 🌱 Learning how to layout PCBs
+- 🏗️ Breaking down a Inkscam-303 to find out its secrets
